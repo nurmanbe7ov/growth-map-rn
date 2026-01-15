@@ -11,6 +11,12 @@ npm run android
 npm run web
 ```
 
+## Demo
+
+Запустить компонент можно через Expo Snack:  
+[https://snack.expo.dev/@earl_earl/growth-map-rn](https://snack.expo.dev/@earl_earl/growth-map-rn)
+
+
 ## Архитектура базы данных (Supabase / Postgres)
 
 ### Какие таблицы нужны?
